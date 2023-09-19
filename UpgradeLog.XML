@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataCheck">
+</Property><Property Name="Solution File" Value="H:\MFI Projects 2010\DataCheck\DataCheck.sln">
+</Property><Property Name="Date" Value="Wednesday, 21 November 2012">
+</Property><Property Name="Time" Value="14:57 PM">
+</Property></Properties><Event ErrorLevel="0" Project="DataCheck" Source="DataCheck.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DataCheck" Source="DataCheck.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="DataCheck.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DataCheck.sln" Description="Converted">
+</Event></UpgradeLog>

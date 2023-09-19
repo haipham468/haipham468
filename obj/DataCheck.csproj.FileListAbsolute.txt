@@ -1,0 +1,11 @@
+C:\MFI Projects\DataCheck\bin\Debug\DataCheck.exe
+C:\MFI Projects\DataCheck\bin\Debug\DataCheck.pdb
+C:\MFI Projects\DataCheck\bin\Debug\MFI.Common.dll
+C:\MFI Projects\DataCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\MFI Projects\DataCheck\obj\Debug\DataCheck.DataCheckMain.resources
+C:\MFI Projects\DataCheck\obj\Debug\DataCheck.Properties.Resources.resources
+C:\MFI Projects\DataCheck\obj\Debug\DataCheck.csproj.GenerateResource.Cache
+C:\MFI Projects\DataCheck\obj\Debug\DataCheck.exe
+C:\MFI Projects\DataCheck\obj\Debug\DataCheck.pdb
+H:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.exe
+H:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.pdb

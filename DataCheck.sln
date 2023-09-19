@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCheck", "DataCheck.csproj", "{C7542D5F-2C31-4844-B7FC-6B43EB58E900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7542D5F-2C31-4844-B7FC-6B43EB58E900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7542D5F-2C31-4844-B7FC-6B43EB58E900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7542D5F-2C31-4844-B7FC-6B43EB58E900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7542D5F-2C31-4844-B7FC-6B43EB58E900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {898C6095-C07C-4397-B9B7-E002294EE4D6}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = DataCheck.csproj
+		SccProjectName0 = \u0022$/DataCheck\u0022,\u0020NOHBAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+	EndGlobalSection
+EndGlobal

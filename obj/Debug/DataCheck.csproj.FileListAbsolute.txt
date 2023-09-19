@@ -1,0 +1,47 @@
+C:\MFI Projects 2010\DataCheck\bin\Debug\DataCheck.exe.config
+C:\MFI Projects 2010\DataCheck\bin\Debug\DataCheck.exe
+C:\MFI Projects 2010\DataCheck\bin\Debug\DataCheck.pdb
+C:\MFI Projects 2010\DataCheck\bin\Debug\MFI.Common.dll
+C:\MFI Projects 2010\DataCheck\obj\Debug\ResolveAssemblyReference.cache
+C:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.DataCheckMain.resources
+C:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.Properties.Resources.resources
+C:\MFI Projects 2010\DataCheck\obj\Debug\GenerateResource.read.1.tlog
+C:\MFI Projects 2010\DataCheck\obj\Debug\GenerateResource.write.1.tlog
+C:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.exe
+C:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.pdb
+H:\MFI Projects 2010\DataCheck\bin\Debug\DataCheck.exe.config
+H:\MFI Projects 2010\DataCheck\bin\Debug\DataCheck.exe
+H:\MFI Projects 2010\DataCheck\bin\Debug\DataCheck.pdb
+H:\MFI Projects 2010\DataCheck\bin\Debug\MFI.Common.dll
+H:\MFI Projects 2010\DataCheck\bin\Debug\Renci.SshNet.dll
+H:\MFI Projects 2010\DataCheck\bin\Debug\itextsharp.dll
+H:\MFI Projects 2010\DataCheck\bin\Debug\CargoWise.IO.Sql.Uncompress.dll
+H:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.DataCheckMain.resources
+H:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.Properties.Resources.resources
+H:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.csproj.GenerateResource.Cache
+H:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.exe
+H:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.pdb
+H:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.csproj.CoreCompileInputs.cache
+H:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.csproj.CopyComplete
+H:\MFI Projects 2010\DataCheck\bin\Debug\Microsoft.SharePoint.Client.dll
+H:\MFI Projects 2010\DataCheck\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+H:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.csproj.AssemblyReference.cache
+H:\MFI Projects 2010\DataCheck\obj\Debug\DataCheck.csproj.SuggestedBindingRedirects.cache
+D:\Hai_Projects\AU_BS_DataCheck\bin\Debug\DataCheck.exe.config
+D:\Hai_Projects\AU_BS_DataCheck\bin\Debug\DataCheck.exe
+D:\Hai_Projects\AU_BS_DataCheck\bin\Debug\DataCheck.pdb
+D:\Hai_Projects\AU_BS_DataCheck\bin\Debug\MFI.Common.dll
+D:\Hai_Projects\AU_BS_DataCheck\bin\Debug\Renci.SshNet.dll
+D:\Hai_Projects\AU_BS_DataCheck\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Hai_Projects\AU_BS_DataCheck\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Hai_Projects\AU_BS_DataCheck\bin\Debug\itextsharp.dll
+D:\Hai_Projects\AU_BS_DataCheck\bin\Debug\CargoWise.IO.Sql.Uncompress.dll
+D:\Hai_Projects\AU_BS_DataCheck\obj\Debug\DataCheck.csproj.AssemblyReference.cache
+D:\Hai_Projects\AU_BS_DataCheck\obj\Debug\DataCheck.csproj.SuggestedBindingRedirects.cache
+D:\Hai_Projects\AU_BS_DataCheck\obj\Debug\DataCheck.DataCheckMain.resources
+D:\Hai_Projects\AU_BS_DataCheck\obj\Debug\DataCheck.Properties.Resources.resources
+D:\Hai_Projects\AU_BS_DataCheck\obj\Debug\DataCheck.csproj.GenerateResource.cache
+D:\Hai_Projects\AU_BS_DataCheck\obj\Debug\DataCheck.csproj.CoreCompileInputs.cache
+D:\Hai_Projects\AU_BS_DataCheck\obj\Debug\DataCheck.csproj.CopyComplete
+D:\Hai_Projects\AU_BS_DataCheck\obj\Debug\DataCheck.exe
+D:\Hai_Projects\AU_BS_DataCheck\obj\Debug\DataCheck.pdb
